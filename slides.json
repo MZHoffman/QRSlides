@@ -1,0 +1,51 @@
+[
+  {
+    "id": "b8686099-bfc4-4fd9-9058-43ad3f63e16a",
+    "title": "Our LinkedIn",
+    "description": "Follow us to stay in the loop",
+    "fileName": "www-linkedin-com-company-js-monthly-viewasmember-true.jpg",
+    "imageFile": "b8686099-bfc4-4fd9-9058-43ad3f63e16a.jpg"
+  },
+  {
+    "id": "babde068-49a4-408b-9017-2e6fa2c334f2",
+    "title": "Join Community",
+    "description": "Chat, Get updates on next meetup, view job postings",
+    "fileName": "chat-whatsapp-com-j35b7x1qcas09ayewn8tru.jpg",
+    "imageFile": "babde068-49a4-408b-9017-2e6fa2c334f2.jpg"
+  },
+  {
+    "id": "21a2ef90-1c82-404d-a492-e212de6e0eae",
+    "title": "Prompt Engineering Conference",
+    "description": "LLMday + Prompt Engineering Conference - London 2026\n50% off with code: CITYJS50",
+    "fileName": "promptengineering-rocks-2026-london-q4.jpg",
+    "imageFile": "21a2ef90-1c82-404d-a492-e212de6e0eae.jpg"
+  },
+  {
+    "id": "b1027c8b-51dd-4516-924f-4d30c3e8aa6d",
+    "title": "WIN CityAI London Tickets",
+    "description": "Take a part in the survey!",
+    "fileName": "forms-gle-lo9eyubapyktqvwv9.jpg",
+    "imageFile": "b1027c8b-51dd-4516-924f-4d30c3e8aa6d-7453c806-93bc-4bc8-8a0c-069aac66e8ba.jpg"
+  },
+  {
+    "id": "eec8faed-ab93-4d67-bffa-cb362d68df31",
+    "title": "CItyAI Conference",
+    "description": "Early Bird tickets\n63% cheaper than Late Bird",
+    "fileName": "london-cityjsconf-org (2).jpg",
+    "imageFile": "eec8faed-ab93-4d67-bffa-cb362d68df31.jpg"
+  },
+  {
+    "id": "34432b35-1bea-4d0d-8406-87754bc753c5",
+    "title": "Our Sponsor",
+    "description": "Thanks to CodeRabbit for sponsoring us today!",
+    "fileName": "www-coderabbit-ai (1).jpg",
+    "imageFile": "34432b35-1bea-4d0d-8406-87754bc753c5.jpg"
+  },
+  {
+    "id": "1f9c6bc3-0716-4fec-bf7e-edc22109ffd2",
+    "title": "Next Meetup",
+    "description": "Join us for our next meetup!",
+    "fileName": "guild-host-events-js-monthly-london-december-arfw4b (1).jpg",
+    "imageFile": "1f9c6bc3-0716-4fec-bf7e-edc22109ffd2.jpg"
+  }
+]
